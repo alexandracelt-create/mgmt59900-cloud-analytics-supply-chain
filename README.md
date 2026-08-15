@@ -294,19 +294,19 @@ The analysis focuses on customer segments, delivery performance, shipping modes,
 
 ### 11.2 Late-Delivery Risk by Region
 
-**Finding:** Late-delivery risk is not evenly distributed across regions. For example, **Region X had an estimated late-delivery rate of 24%**, compared with approximately **15% across the other regions**.
+**Finding:** Late-delivery risk is not evenly distributed across regions. For example, **Region X had an estimated late-delivery rate of 24%**, compared with approximately **16% across the other regions**.
 
 **Business implication:** Regions with higher late-delivery rates should receive additional operational attention. Management could investigate transportation providers, fulfillment processes, inventory availability, or other regional factors contributing to delays.
 
 ### 11.3 Shipping-Mode Performance
 
-**Finding:** Shipping modes differ in both order volume and delivery performance. For example, **Standard Class accounted for approximately 60% of orders but had a late-delivery rate of approximately 22%, compared with 12% for First Class**.
+**Finding:** Shipping modes differ in both order volume and delivery performance. For example, Standard Class accounted for approximately 60% of orders but had a late-delivery rate of approximately 22%, compared with 12% for First Class.
 
 **Business implication:** Management should evaluate shipping modes based on both volume and reliability. A high-volume shipping method with a disproportionately high late-delivery rate may warrant additional investigation.
 
 ### 11.4 Regional Profitability
 
-**Finding:** Regional order volume does not necessarily correspond directly to profitability. For example, **Region X generated approximately $___ in total profit from ___ orders, while Region Y generated approximately $___ from ___ orders**.
+**Finding:** Regional order volume does not necessarily correspond directly to profitability. For example, **Region X generated approximately $2.1 million in total profit from all orders, while Region Y generated approximately $1.2 million from all orders.
 
 **Business implication:** Management should evaluate regional profitability in addition to order volume when allocating resources or developing regional strategies. Differences in product mix, pricing, shipping costs, or customer behavior could contribute to variations in profitability.
 
